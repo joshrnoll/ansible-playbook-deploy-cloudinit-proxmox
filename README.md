@@ -9,6 +9,8 @@ Ensure you have Ansible installed. Install the joshrnoll.homelab collection with
 ansible-galaxy collection install joshrnoll.homelab
 ```
 
+Clone this repository. Ensure all work is done from within the root of the repo.
+
 ### Steps:
 
 #### 1. Create a Proxmox API token 
